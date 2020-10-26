@@ -1,0 +1,22 @@
+{
+	"title": "Trump-wall",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": ""
+		},
+		"issuer": {
+			"type": "string",
+			"description": ""
+		},
+		"description": {
+			"type": "string",
+			"description": ""
+		},
+		"image": {
+			"type": "string",
+			"description": "https://raw.githubusercontent.com/williamzng/Presidential-Campaign/main/Trump-wall.jpg"
+		}
+	}
+}
